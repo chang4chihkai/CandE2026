@@ -32,6 +32,7 @@
 .vocab-table { font-size: 0.7em; }
 .grammar-box { background: #e8f6f3; border-left: 5px solid #1abc9c; }
 .sentence-box { background: #f8f9fa; border-left: 5px solid #3498db; }
+.verb-highlight { background-color: #ffeb3b; padding: 2px 6px; border-radius: 3px; }
 ```
 
 ### HTML 結構範例
@@ -40,7 +41,7 @@
 <section>
     <h3>Sentence N 句子解析</h3>
     <div class="sentence-box">
-        <p><strong>英文句子</strong></p>
+        <p><strong>英文句子 <span class="verb-highlight">核心動詞</span></strong></p>
         <p class="chinese">中文翻譯</p>
     </div>
     <div class="vocab-box">
