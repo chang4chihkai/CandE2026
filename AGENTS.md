@@ -85,6 +85,7 @@
 | 20260302 | abstract5.html | Critical Thinking Intervention & GenAI Collaborative Learning |
 | 20260302 | abstract6.html | AGI & Discourse Analysis (CGT-LLM Framework) |
 | 20260309 | abstract7.html | Expressions of learner agency in virtual inquiry |
+| 20260323 | abstract8.html | Expressions of learner agency in virtual inquiry (with Terminology) |
 
 ## Commands
 - Preview locally: Open HTML files in browser (requires internet for CDN)
